@@ -1,2 +1,2 @@
 # MuseumOfCandy
-Bootstrap based simple responsive website.
+**Bootstrap** based simple fully responsive website.
